@@ -1,5 +1,5 @@
-<h1 align="center" style="color:white; background-color:black">[OBSAT Probe]</h1>
-<h4 align="center">[Zenith was chosen as a colaborator of the Brazilian Satellite Olympiad (OBSAT), being responsible for the designing and assembly of a stratospheric probe to launch the participating satellites.]</h4>
+<h1 align="center" style="color:white; background-color:black">OBSAT Probe</h1>
+<h4 align="center">Zenith was chosen as a colaborator of the Brazilian Satellite Olympiad (OBSAT), being responsible for the designing and assembly of a stratospheric probe to launch the participating satellites.</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
@@ -8,26 +8,26 @@
     <a href="https://eesc.usp.br/">
     <img src="https://img.shields.io/badge/Linked%20to-EESC--USP-black?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/obsat-structures/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zenitheesc/obsat-structures?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/issues">
-    <img src="https://img.shields.io/github/issues/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/obsat-structures/issues">
+    <img src="https://img.shields.io/github/issues/zenitheesc/obsat-structures?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge">
+    <a href="https://github.com/zenitheesc/obsat-structures/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/zenitheesc/obsat-structures?style=for-the-badge">
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/obsat-structures/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zenitheesc/obsat-structures?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/commits/main">
-    <img src="https://img.shields.io/github/last-commit/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge"/>
+    <a href="https://github.com/zenitheesc/obsat-structures/commits/main">
+    <img src="https://img.shields.io/github/last-commit/zenitheesc/obsat-structures?style=for-the-badge"/>
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/issues">
-    <img src="https://img.shields.io/github/issues-raw/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge" />
+    <a href="https://github.com/zenitheesc/obsat-structures/issues">
+    <img src="https://img.shields.io/github/issues-raw/zenitheesc/obsat-structures?style=for-the-badge" />
     </a>
-    <a href="https://github.com/${{ env.REPOSITORY_FULL_NAME }}/pulls">
-    <img src = "https://img.shields.io/github/issues-pr-raw/${{ env.REPOSITORY_FULL_NAME }}?style=for-the-badge">
+    <a href="https://github.com/zenitheesc/obsat-structures/pulls">
+    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/obsat-structures?style=for-the-badge">
     </a>
 </p>
 

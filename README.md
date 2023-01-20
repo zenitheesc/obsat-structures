@@ -1,9 +1,9 @@
-<h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h1 align="center" style="color:white; background-color:black">[OBSAT Probe]</h1>
+<h4 align="center">[Zenith was chosen as a colaborator of the Brazilian Satellite Olympiad (OBSAT), being responsible for the designing and assembly of a stratospheric probe to launch the participating satellites.]</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
-    <img src="https://img.shields.io/badge/Zenith-Embarcados-black?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Zenith-Estruturas-black?style=for-the-badge"/>
     </a>
     <a href="https://eesc.usp.br/">
     <img src="https://img.shields.io/badge/Linked%20to-EESC--USP-black?style=for-the-badge"/>
@@ -33,23 +33,16 @@
 
 <p align="center">
     <a href="#environment-and-tools">Environment and Tools</a> •
-    <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
-    <a href="#how-to-contribute">How to contribute?</a> •
+    <a href="#how-to-contribute">Warning</a> •
 </p>
 
 ## Environment and tools
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
+`The parts of this project were designed in SOLIDWORKS, and the STL files were generated in order to print some of these parts. If one wishes to consult and possibly modificate these parts to use them in other projects, it is highly recommended to use SOLIDWORKS, otherwise there might be issues.`
 
-## Steps to run and debug
+## Warning
 
-`A simple list of steps indicating how one can run and test the project.`
-
-## How to contribute
-
-`(optional, depends on the project) list of simple rules to help people work on the project.`
-
-`Examples: How to format a pull request\n How to format an issue`
+`This repository was created in order to store the files of the parts used in the OBSAT launches. Therefore, it is not expected to have any changes within the files. This is just a repository for future reference.`
 
 ---
 
@@ -66,5 +59,5 @@
 
 </p>
 <p align = "center">
-<a href="zenith.eesc@gmail.com">zenith.eesc@gmail.com</a>
+<a href="zenith@usp.br">zenith@usp.br</a>
 </p>
